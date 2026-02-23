@@ -7,4 +7,9 @@ I'm a **Frontend Developer**.
 My main tech stack is **react, typescript, vue, sass, html/css/javascript**.
 
 <img src="./images/react.png" width=50>
-
+<img src="./images/react.png" width=50>
+<img src="./images/react.png" width=50>
+<img src="./images/react.png" width=50>
+<img src="./images/react.png" width=50>
+<img src="./images/react.png" width=50>
+<img src="./images/react.png" width=50>
