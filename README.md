@@ -1,5 +1,5 @@
 ## ***en***
-## Hi there 👋, I'm [Nezikog](https://github.com/nezikog)
+## **Hi there 👋, I'm [Nezikog](https://github.com/nezikog)**
 [```website bio```](#)
 
 ## Who is I am?
