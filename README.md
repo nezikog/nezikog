@@ -5,5 +5,6 @@
 I'm a **Frontend Developer**.
 
 My main tech stack is **react, typescript, vue, sass, html/css/javascript**.
-<img src="./images/react.png" width=50 border-radius="1">
+
+<img src="./images/react.png" width=50>
 
