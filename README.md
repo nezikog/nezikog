@@ -1,7 +1,11 @@
-## **Hi there 👋, I'm [Nezikog](https://github.com/nezikog)**
+## **Всем привет 👋, я [Nezikog](https://github.com/nezikog)**
 
 [```website bio```](#)
 
-I'm a **Frontend Developer**.
+Я **Frontend разработчик**.
 
-My main tech stack is **react, typescript, vue, sass, html/css/javascript**.
+В основе моего рабочего стака: **react, typescript, vue, sass, html/css/javascript**.
+
+## Также:
+**Работаю в Figma**
+**Работаю с различными API**
