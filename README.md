@@ -4,5 +4,5 @@
 
 I'm a **Frontend Developer**.
 
-My main tech stack is **react<img src="./images/react.png">, typescript, vue, sass, html/css/javascript**.
+My main tech stack is **react<img src="./images/react.png" width=100 >, typescript, vue, sass, html/css/javascript**.
 
