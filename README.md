@@ -9,7 +9,7 @@ I'm a Frontend Developer.
 My main tech stack is react, typescript, vue, scss, html/css/javascript.
 
 ## ru
-## Привет всем 👋, Я [Nezikog](https://github.com/nezikog)
+## Всем привет 👋, Я [Nezikog](https://github.com/nezikog)
 [```Мое био-сайт```](#)
 
 ## Кто я такой?
