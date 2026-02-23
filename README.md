@@ -5,7 +5,7 @@
 
 I'm a Frontend Developer.
 
-My main tech stack is react, typescript, vue, scss, html/css/javascript.
+My main tech stack is **react, typescript, vue, scss, html/css/javascript**.
 
 ## ***ru***
 **Всем привет 👋, Я [Nezikog](https://github.com/nezikog)**
@@ -14,4 +14,4 @@ My main tech stack is react, typescript, vue, scss, html/css/javascript.
 
 Я Frontend разработчик.
 
-В основном мой тех.стак состоит из react, typescript, vue, scss, html/css/javascript.
+В основном мой тех.стак состоит из **react, typescript, vue, scss, html/css/javascript**.
