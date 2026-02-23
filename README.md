@@ -1,4 +1,4 @@
-## ru
+## en
 ## Hi there 👋, I'm [Nezikog](https://github.com/nezikog)
 [```website bio```](#)
 
@@ -8,7 +8,7 @@ I'm a Frontend Developer.
 ## My tech stack
 My main tech stack is react, typescript, vue, scss, html/css/javascript.
 
-## en
+## ru
 ## Привет всем 👋, Я [Nezikog](https://github.com/nezikog)
 [```Мое био-сайт```](#)
 
